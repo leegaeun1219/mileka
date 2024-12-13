@@ -154,6 +154,7 @@ body {
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
+    overflow: hidden;
 }
 
 #bg2 {
@@ -162,7 +163,6 @@ body {
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
 }
 
 #bg3 {
