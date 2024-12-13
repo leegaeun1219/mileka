@@ -80,6 +80,7 @@ body {
 
 #wrap {
     min-width: 1360px;
+     overflow: hidden;
 }
 
 
@@ -154,7 +155,7 @@ body {
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
+   
 }
 
 #bg2 {
