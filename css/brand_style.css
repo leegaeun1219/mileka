@@ -136,7 +136,10 @@ body {
 
 /* banner */
 #banner{
-    width: 1920px;
+    height: 760px;
+    background-image: url(../images/brand/banner/mainbanner.png);
+    background-repeat: no-repeat;
+    background-position: center;
     margin: 0 auto;
 }
 
